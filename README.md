@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There, I'm Ruan👋
 
 - 🔭 I’m currently working on building a Knowledge Management System with NLP and Computer Vision functionality. 
 - 🌱 I’m currently learning AWS and MLOps. 
