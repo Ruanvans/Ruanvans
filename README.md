@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on building a knowledge management system with NLP and Computer Vision functionality. 
-🌱 I’m currently learning AWS and MLOps
-📫 How to reach me: ...
+- 🔭 I’m currently working on building a knowledge management system with NLP and Computer Vision functionality. 
+- 🌱 I’m currently learning AWS and MLOps
+- 📫 How to reach me: ...
 
 
 <!--
