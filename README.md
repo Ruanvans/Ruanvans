@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on building a knowledge management system with NLP and Computer Vision functionality. 
+🌱 I’m currently learning AWS and MLOps
+📫 How to reach me: ...
+
+
 <!--
 **Ruanvans/Ruanvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
