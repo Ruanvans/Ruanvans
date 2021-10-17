@@ -20,7 +20,16 @@ Im currently working on a series of medium articles aimed at discussing my journ
 
 ## 🛠️ Tools and Frameworks I'm Familiar With
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=32CD32)  ![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=keras&logoColor=white&color=32CD32) 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32) 
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=32CD32) 
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=32CD32) 
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=32CD32) 
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=32CD32)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=32CD32)
+![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=32CD32) 
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=32CD32)  
+![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=keras&logoColor=white&color=32CD32)
+![](https://img.shields.io/badge/Framework-Scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=32CD32) 
 
 ## 📈Some Of My Github Stats
 ![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruanvans&show_icons=true&theme=chartreuse-dark)
