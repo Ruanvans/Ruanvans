@@ -14,9 +14,10 @@
 - ⚡ Fun fact: I love the outdoors and climbed Mount Kilimanjaro in July 2019 days after turning 21. 
 
 ### ✍️ Blog Posts
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32)
+
 
 ### 🛠️ Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=32CD32)
 
 ### 📈Some of my Github Stats
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanvans&show_icons=true&theme=chartreuse-dark)
