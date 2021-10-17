@@ -1,5 +1,5 @@
 ### Hi There, I'm Ruan <img src="wave.gif" width="30px">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ruan-van-schalkwyk-800a65150)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ruan-van-schalkwyk-800a65150)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ruanvans1@gmail.com)
 
 
