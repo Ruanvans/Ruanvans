@@ -15,10 +15,10 @@
 - 📫 You can reach me at ruanvans1@gmail.com
 - ⚡ Fun fact: I love the outdoors and climbed Mount Kilimanjaro in July 2019 days after turning 21. 
 
-### ✍️ Blog Posts
+## ✍️ Blog Posts
 Im currently working a series of medium articles aimed at discussing at my journey as I learn MLOps and the subsequent project I will develop to better understand this topic. 
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=32CD32)
 
