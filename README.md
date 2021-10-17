@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love the outdoors and climbed Mount Kilimanjaro in July 2019 days after turning 21. 
 
 ### ✍️ Blog Posts
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32)
 
 ### 🛠️ Tools
 
