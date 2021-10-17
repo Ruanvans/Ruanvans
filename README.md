@@ -1,3 +1,5 @@
+
+<img src="github gif.gif">
 ### Hi There, I'm Ruan <img src="wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-van-schalkwyk-800a65150)
