@@ -1,9 +1,9 @@
 ### Hi There, I'm Ruan <img src="wave.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-van-schalkwyk-800a65150)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-van-schalkwyk-800a65150)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-square&logo=google-chrome&logoColor=white)]() 
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)]()
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-square&logo=Twitter&logoColor=white)]()
 
 **Some quick facts about me:** 
 - 🔭 I’m currently working on building a Knowledge Management System with NLP and Computer Vision functionality. 
@@ -18,12 +18,11 @@
 ## ✍️ Blog Posts
 Im currently working a series of medium articles aimed at discussing at my journey as I learn MLOps and the subsequent project I will develop to better understand this topic. 
 
-## 🛠️ Tools
+## 🛠️ Tools and Frameworks I'm familiar with
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=32CD32)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=32CD32) ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=32CD32)  ![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=keras&logoColor=white&color=32CD32) 
 
-### 📈Some of my Github Stats
+## 📈Some of my Github Stats
 ![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruanvans&show_icons=true&theme=chartreuse-dark)
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanvans&show_icons=true&theme=chartreuse-dark)
 
 
