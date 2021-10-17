@@ -7,7 +7,7 @@
 **Some quick facts about me:** 
 - 🔭 I’m currently working on building a Knowledge Management System with NLP and Computer Vision functionality. 
 - 🌱 I’m currently learning AWS and MLOps. 
-- 💥 Repositories I am really proud of are:
+- 💥 Repositories I am really proud of:
     -    [My Undergraduate Thesis](https://github.com/Ruanvans/GAN-time-series-implementation). 
     -    [My Exploration of Medical AI](https://github.com/Ruanvans/ECG-classification-using-deep-learning).
 - 🎓 MSc Data Science class of 2021, BSc Computer Science class of 2020. 
@@ -16,6 +16,6 @@
 ### 🛠️ Tools
 
 ### 📈Some of my Github Stats
-
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanvans&show_icons=true&theme=chartreuse-dark)
 ![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruanvans&show_icons=true&theme=chartreuse-dark)
 
