@@ -6,7 +6,7 @@
 - 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/ruan-van-schalkwyk-800a65150) or at ruanvans1@gmail.com. 
 - ⚡ Fun fact: I love the outdoors and climbed Mount Kilimanjaro in July 2019 days after turning 21. 
 
-
+### ![visitor](https://visitor-badge.glitch.me/badge?page_id=Ruanvans.Ruanvans&left_color=green&right_color=red)
 <!--
 **Ruanvans/Ruanvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
