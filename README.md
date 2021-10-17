@@ -1,5 +1,5 @@
 
-<img src="github gif.gif" width="1000px" height="450px">
+<img src="github gif.gif" width="450px" height="450px">
 
 ### Hi There, I'm Ruan <img src="wave.gif" width="30px">
 
