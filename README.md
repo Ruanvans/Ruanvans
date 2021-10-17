@@ -13,6 +13,8 @@
 - 🎓 MSc Data Science class of 2021, BSc Computer Science class of 2020. 
 - ⚡ Fun fact: I love the outdoors and climbed Mount Kilimanjaro in July 2019 days after turning 21. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### ✍️ Blog Posts
 
 
