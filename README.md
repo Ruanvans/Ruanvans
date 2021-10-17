@@ -1,23 +1,19 @@
-### Hi There, I'm Ruan <img src="wave.gif" width="30px">
+### <img src="wave.gif" width="30px"> Hi There, I'm Ruan <img src="wave.gif" width="30px">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ruan-van-schalkwyk-800a65150)
+[![Email Badge]()
 
+### Happy you're here! ![visitor](https://visitor-badge.glitch.me/badge?page_id=Ruanvans.Ruanvans&left_color=gray&right_color=blue)
+
+**Some quick facts about me** 
 - 🔭 I’m currently working on building a Knowledge Management System with NLP and Computer Vision functionality. 
 - 🌱 I’m currently learning AWS and MLOps. 
-- 💥 Repositories I am really proud of are [My undergraduate thesis](https://github.com/Ruanvans/GAN-time-series-implementation) and my [Exploration of Medical AI](https://github.com/Ruanvans/ECG-classification-using-deep-learning)
-- 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/ruan-van-schalkwyk-800a65150) or at ruanvans1@gmail.com. 
+- 💥 Repositories I am really proud of are:
+    -    [My Undergraduate Thesis](https://github.com/Ruanvans/GAN-time-series-implementation) 
+    -    [My Exploration of Medical AI](https://github.com/Ruanvans/ECG-classification-using-deep-learning)
+- 🎓 I graduated from King's College London with a MSc Data Science in 2021 , and from the University of Surrey in 2020 with a BSc Computer Science degree. 
 - ⚡ Fun fact: I love the outdoors and climbed Mount Kilimanjaro in July 2019 days after turning 21. 
 
-### ![visitor](https://visitor-badge.glitch.me/badge?page_id=Ruanvans.Ruanvans&left_color=green&right_color=red)
-<!--
-**Ruanvans/Ruanvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some of my Github Stats
+https://github-readme-stats.vercel.app/api?username={Ruanvans}
