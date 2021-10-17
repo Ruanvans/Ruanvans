@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love the outdoors and climbed Mount Kilimanjaro in July 2019 days after turning 21. 
 
 ## ✍️ Blog Posts
-Im currently working a series of medium articles aimed at discussing at my journey as I learn MLOps and the subsequent project I will develop to better understand this topic. 
+Im currently working on a series of medium articles aimed at discussing my journey as I learn the principles of MLOps, and the subsequent project I'll be working on to better understand how these principles are applied in a real world setting. 
 
 ## 🛠️ Tools and Frameworks I'm familiar with
 
