@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-square&logo=google-chrome&logoColor=white)]() 
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-square&logo=Twitter&logoColor=white)]()
+
 **Some quick facts about me:** 
 - 🔭 I’m currently working on building a Knowledge Management System with NLP and Computer Vision functionality. 
 - 🌱 I’m currently learning AWS and MLOps. 
